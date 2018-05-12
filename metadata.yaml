@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '43812'
     url: http://www.gutenberg.org/2009/agents/43812
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37983#W.--amp--R.-Chambers-Selected-Catalogue-1892Suitable-for-Prizes-and-Presentation
 gutenberg_issued: '2011-11-11'
 gutenberg_type: Text
 identifiers:
